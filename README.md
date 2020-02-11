@@ -11,15 +11,6 @@ Available Mechanics:
 - Push cubes away from you
 - Pull cubes to yourself
 
-Legal:
-- No any legal limitations
-
-Editor View:
-![Editor View](https://i.ibb.co/1MPfd8D/03-C37-C21-444-A-4821-A1-AB-A73144-C26495-png.jpg)
-
-Game View:
-![Game View](https://i.ibb.co/BTfsxNk/C18442-D0-6786-4916-858-D-562-B0-B64-F007-png.jpg)
-
 History:
 - Dev Stage #1 - 3D Voxel System
 https://www.youtube.com/watch?v=enxBK0af6TE
@@ -29,3 +20,13 @@ https://www.youtube.com/watch?v=lhQhxC6EM4g
 
 - Dev Stage #3 - Almost Actual Version
 https://www.youtube.com/watch?v=GdaeObA91aE
+
+
+Legal:
+- No any legal limitations
+
+Editor View:
+![Editor View](https://i.ibb.co/1MPfd8D/03-C37-C21-444-A-4821-A1-AB-A73144-C26495-png.jpg)
+
+Game View:
+![Game View](https://i.ibb.co/BTfsxNk/C18442-D0-6786-4916-858-D-562-B0-B64-F007-png.jpg)
