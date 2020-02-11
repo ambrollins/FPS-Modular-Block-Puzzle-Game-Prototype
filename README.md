@@ -1,7 +1,7 @@
 # FPS-Modular-Block-Puzzle-Game-Prototype
 An outdated FPS Prototype
 - Initial Environment: Unity 5 (C#)
-- Current Environment: Unity 2018.3.12f1
+- Current Environment: Unity 2019.2.19f1
 
 Available Mechanics:
 - Modular 3D prefabs for building levels
