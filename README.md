@@ -26,7 +26,9 @@ Legal:
 - No any legal limitations
 
 Editor View:
+<br>
 ![Editor View](https://i.ibb.co/1MPfd8D/03-C37-C21-444-A-4821-A1-AB-A73144-C26495-png.jpg)
 
 Game View:
+<br>
 ![Game View](https://i.ibb.co/BTfsxNk/C18442-D0-6786-4916-858-D-562-B0-B64-F007-png.jpg)
